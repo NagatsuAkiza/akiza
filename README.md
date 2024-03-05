@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vannone@gmx.com**
 
-- ⚡ Fun fact **AKU KAYA :D**
+- ⚡ Fun fact **I'm still a beginner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
