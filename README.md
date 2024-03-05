@@ -1,4 +1,13 @@
-<h3 align="center">Hi there 👋</h3>
+<h1 align="center">Hi 👋, I'm Van</h1>
+<h3 align="center">A passionate programmer from Indonesia 🇮🇩</h3>
+
+- 🌱 I’m currently learning **React, Vue, Astro**
+
+- 👨‍💻 All of my projects are available at [vanweb.my.id](vanweb.my.id)
+
+- 📫 How to reach me **vannone@gmx.com**
+
+- ⚡ Fun fact **AKU KAYA :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
