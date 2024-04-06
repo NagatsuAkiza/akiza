@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Van</h1>
 <h3 align="center">A passionate programmer from Indonesia 🇮🇩</h3>
 
-- 🌱 I’m currently learning **React, Vue, Astro**
+- 🌱 I’m currently learning **React, Vue, Astro, Next JS**
 
 - 👨‍💻 All of my projects are available at **<a href="vanweb.my.id">vanweb.my.id<a/>**
 
