@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Vue, Astro, Next JS**
 
-- 👨‍💻 All of my projects are available at [vanweb.my.id](vanweb.my.id)
+- 👨‍💻 All of my projects are available at [vanweb.my.id](https://vanweb.my.id/)
 
 - 📫 How to reach me **vannone@gmx.com**
 
