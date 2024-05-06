@@ -1,16 +1,24 @@
-<h1 align="center">Hi 👋, I'm Van</h1>
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Honk&size=50&duration=4000&pause=1000&color=000000&background=FFFFFF&center=true&random=false&width=435&height=100&lines=Hello+There!%F0%9F%91%8B;I'm+Van" alt="Typing SVG" />
 <h3 align="center">A passionate programmer from Indonesia 🇮🇩</h3>
 
-- 🌱 I’m currently learning **React, Astro, Next JS, Go, PHP**
+<div align="center">
+<p>    
+🌱 I’m currently learning **React, Astro, Next JS, Go, PHP**
+</p>
+<p> 
+👨‍💻 All of my projects are available at [vanweb.my.id](https://vanweb.my.id/)
+</p>
+<p>    
+📫 How to reach me **vannone@gmx.com**    
+</p>
+</div>
+</div>
 
-- 👨‍💻 All of my projects are available at [vanweb.my.id](https://vanweb.my.id/)
+<h2 align="center">Connect with me:</h2>
 
-- 📫 How to reach me **vannone@gmx.com**
-
-<h2 align="left">Connect with me:</h2>
-<h3>🌐 Social Media</h3>
-
-<div>
+<div align="center">
+<h3 >🌐 Social Media</h3>
     <a href="https://discord.com">
         <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" class="badge-img">
     </a>
@@ -28,9 +36,9 @@
     </a>
 </div>
 
-<h2 align="left">Languages and Tools:</h2>
+<div align="center">
+<h2>Languages and Tools:</h2>
 <h3>🔥Framework</h3>
-<div>
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" class="badge-img">
     <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" class="badge-img">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" class="badge-img">
@@ -39,14 +47,14 @@
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" class="badge-img">
 </div>
 
+<div align="center">
 <h3>☁️ Hosting/SaaS</h3>
-<div>
     <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" class="badge-img">
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" class="badge-img">
 </div>
 
+<div align="center">
 <h3>📋 Languages</h3>
-<div>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" class="badge-img">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" class="badge-img">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" class="badge-img">
@@ -59,7 +67,7 @@
 <br>
 <br>
 
-<h2>📊 GitHub Stats:</h2>
+<h2 align="center">📊 GitHub Stats:</h2>
 <p align="center" style="display:inline-block;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Languages">
 </p>
