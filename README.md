@@ -17,7 +17,7 @@
 
 <div align="center">
 <h3 >🌐 Social Media</h3>
-    <a href="https://discord.com">
+    <a href="https://discord.gg/mKCdAKYjPN">
         <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" class="badge-img">
     </a>
     <a href="https://facebook.com/nagatsu.akiza">
