@@ -5,12 +5,11 @@
 <p>    
 🌱 I’m currently learning **React, Astro, Next JS, Go, PHP**
 </p>
-<p> 
+
 👨‍💻 All of my projects are available at [vanweb.my.id](https://vanweb.my.id/)
-</p>
-<p>    
+
+
 📫 How to reach me **vannone@gmx.com**    
-</p>
 </div>
 </div>
 
@@ -68,13 +67,13 @@
 
 <h2 align="center">📊 GitHub Stats:</h2>
 <p align="center" style="display:inline-block;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Languages">
+  <img src="https://streak-stats.demolab.com?user=Van's&theme=transparent&border_radius=5&" height="300" alt="GitHub Streak" />
+</p>
+<p align="center" style="display:inline-block;">
+  <img src="https://github-readme-stats.vercel.app/api?username=kisa22&show_icons=true&locale=en" height="200" alt="kisa22" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisa22&layout=compact" height="200" alt="Top Languages">
 </p>
 <p align="left" style="display:inline-block;">
-  <img src="https://github-readme-stats.vercel.app/api?username=kisa22&show_icons=true&locale=en" alt="kisa22" />
-</p>
-<p align="right" style="display:inline-block;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kisa22&" alt="kisa22" />
 </p>
 <br>
 <br>
@@ -92,8 +91,8 @@
 
 <!-- <style>
     .badge-img {
-        width: 100px;
-        height: 25px;
+        width: 140px;
+        height: 35px;
         object-fit: cover;
         margin-right: 10px;
     }
