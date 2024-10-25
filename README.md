@@ -74,12 +74,8 @@
 
 <h2 align="center">Support Me (●'◡'●)</h2>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/van29">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="van29" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://ko-fi.com/van29">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="van29" />
+  <a href="https://tako.id/nagatsuakiza">
+    <img src="https://storage.tako.id/creator/1d1e92c3-89ab-4d62-9385-6f442e88eeb1/banner.png?ref=Frame%2B10.png" style="border-radius: 20px;" height="80" width="150" alt="takoId" />
   </a>
 </p>
 
