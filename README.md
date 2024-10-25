@@ -61,11 +61,11 @@
 
 <h2 align="center">📊 GitHub Stats:</h2>
 <p align="center" style="display:inline-block;">
-  <img src="https://streak-stats.demolab.com?user=Van's&theme=transparent&border_radius=5&" height="300" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Akiza's&theme=transparent&border_radius=5&" height="300" alt="GitHub Streak" />
 </p>
 <p align="center" style="display:inline-block;">
-  <img src="https://github-readme-stats.vercel.app/api?username=kisa22&show_icons=true&locale=en" height="200" alt="kisa22" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisa22&layout=compact" height="200" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=nagatsuakiza&show_icons=true&locale=en" height="200" alt="kisa22" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagatsuakiza&layout=compact" height="200" alt="Top Languages">
 </p>
 <p align="left" style="display:inline-block;">
 </p>
